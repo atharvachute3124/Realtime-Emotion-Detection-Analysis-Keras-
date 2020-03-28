@@ -12,8 +12,7 @@ Download the kaggle dataset from here => https://www.kaggle.com/c/challenges-in-
 ### How to execute
 1. Run ED_execution.py
 2. Run videoTester.py for realtime emotion detection </br>
-   <b>OR</b>
-   Run imageTester.py for emotion detection on individual images
+   <b>OR</b> </br> Run imageTester.py for emotion detection on individual images
 
 ### Acknowlegdements
 * Haar Cascade Object Detection Face & Eye(sentdex) - https://www.youtube.com/watch?v=88HdqNDQsEk&feature=youtu.be
